@@ -1,4 +1,4 @@
-# voce tem que esta com o whatsapp logado na web para poder confirmar o envio
+# voce tem que esta com o whatsapp logado na web para poder enviar a mensagem
 
 # whatsapp_auto.py
 import pywhatkit as whatsapp
